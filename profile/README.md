@@ -1,3 +1,3 @@
 ## Intro Page
 
-Org. Discribtion
+Description...
