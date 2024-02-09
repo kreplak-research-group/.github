@@ -1,3 +1,3 @@
-## Kerr Lab Data
+## Intro Page
 
-This organisation contains repos for each experiment class. 
+Org. Discribtion
